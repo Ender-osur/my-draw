@@ -1,0 +1,6 @@
+[submodule "my-draw_backend"]
+	path = my-draw_backend
+	url = git@github.com:Ender-osur/my-draw_backend.git
+[submodule "my-draw_frontend"]
+	path = my-draw_frontend
+	url = git@github.com:Ender-osur/my-draw_frontend.git
